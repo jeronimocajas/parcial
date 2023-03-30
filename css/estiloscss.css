@@ -1,0 +1,96 @@
+header{
+    display: flex;
+}
+
+
+
+
+.divhijo1{
+
+    background-color: gray;
+    text-align: center;
+    height: 700px;
+    
+}
+
+.flex{
+    display: flex;
+    position: relative;
+    bottom:700px;
+    left:200px;
+    
+}
+
+.flex1{
+    display: flex;
+    margin-right: 8%;
+    margin-left: 1%;
+    position: relative;
+    bottom:340px;
+    left:110px;
+    text-align: center;
+}
+
+.flex2{
+    display: flex;
+    position: relative;
+    margin-right: 2%;
+    bottom:320px;
+    left:110px;
+    color: black;
+}
+
+.flex3{
+    display: flex;
+    position: relative;
+    bottom:300px;
+    left:101px;
+}
+
+.checkout button{
+    display: flex;
+    position: relative;
+    background-image: url(../recursos/imagenes/checkout.png);
+    background-repeat: no-repeat;
+    padding:36px 36px 36px 120px;
+    margin-left: 20%;
+}
+
+.total{
+    display: flex;
+    position: relative;
+    margin-left: 15%;
+    padding-right: 50px;
+}
+
+.divimagencentro{
+
+    position: relative;
+    bottom:700px;
+    left:200px;
+    
+    
+}
+
+
+
+
+.divshirt{
+    background-color:#990134;
+    text-align: center;
+}
+
+.navBuscador{
+    
+margin-left: 2%;
+margin-right: 2%;
+margin-top: 2%;
+height: 100%;
+   
+}
+
+.compra{
+
+    margin-left: 1%;
+    
+}
